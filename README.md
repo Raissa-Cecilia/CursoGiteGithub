@@ -1,6 +1,6 @@
-# Curso Git e GitHub
- Projeto do Curso
+## Curso Git e GitHub
+ **Projeto do Curso**
+***
+ _Primeiro Repositório_
 
- Primeiro Repositório 
-
-Linha diretamente do READmd
+Linha diretamente do READmd🐈
